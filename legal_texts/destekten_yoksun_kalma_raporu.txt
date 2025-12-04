@@ -1,0 +1,110 @@
+I. OLAY VE TARAF BİLGİLERİ
+
+Olay tarihi: 01.01.2020
+Hesap tarihi: 04.12.2025
+
+Destek (kazalı):
+  Adı soyadı  : Maktul
+  Doğum tarihi: 09.01.1992
+  Cinsiyeti   : Erkek
+  Olay tarihindeki yaşı (yaklaşık): 27.98 yıl
+
+Destekten yoksun kalanlar (hak sahipleri):
+  - Anne (Anne), doğum tarihi: 01.01.1955, cinsiyet: Kadın
+  - Baba (Baba), doğum tarihi: 01.01.1950, cinsiyet: Erkek
+
+II. HUKUKİ VE TEKNİK ESASLAR
+
+I. HUKUKİ VE TEKNİK ESASLAR
+
+III. HESAPLAMA PARAMETRELERİ VE YÖNTEMİ
+
+Kullanılan yaşam tablosu: TRH 2010 Yaşam Tablosu.
+Hesaplama profili      : Yargıtay Modu (içtihatlara ağırlık veren varsayımlar)
+
+Gelir esasları:
+  - Gelir türü              : Asgari Ücret Esaslı
+  - Gelir, dönemin yürürlükteki asgari ücreti ve AGİ/istisna hükümleri dikkate alınarak belirlenmiştir.
+
+Aktif ve pasif dönem parametreleri:
+  - Aktif dönem yaş aralığı : 18 - 60
+  - Pasif gelir modeli      : Pasif dönemde AGİ'siz net asgari ücret esas alınmıştır.
+
+Çocuklar için varsayılan destek yaşları:
+  - Erkek çocuk (öğrenci değil) : 18 yaşına kadar
+  - Kız çocuk (öğrenci değil)   : 22 yaşına kadar
+  - Öğrenci çocuk               : 25 yaşına kadar
+
+SGK tarafından bağlanan aylık gelir bulunmadığı varsayılmıştır.
+
+Kusur indirimi uygulanmamıştır.
+Rapor iskontosu uygulanmamıştır.
+
+Askerlik hizmeti için, 20 yaşından itibaren 12 ay süreyle kazanç elde edilmeyeceği varsayılmış ve bu dönem tazminat dışında bırakılmıştır.
+
+Kazalının reşit olmaması nedeniyle anne/baba yönünden yetiştirme gideri indirimi uygulanmıştır (oran: %5.00).
+Yetiştirme giderine esas aylık gelir, olay tarihindeki net asgari ücret üzerinden belirlenmiştir.
+
+Anne ve baba yönünden, eş ve çocuklardan ayrı bir destek havuzu kabul edilmiş; çocuklardan birinin destekten çıkması halinde payı eş ve diğer çocuklara aktarılmış, anne ve babanın payına eklenmemiştir.
+
+Destek kişinin bekar olması halinde, Yargıtay ve doktrinde kabul gören varsayımlar doğrultusunda, 25 yaşında evleneceği, evlilikten 2 yıl sonra ilk, 4 yıl sonra ikinci çocuğun olacağı kabul edilmiştir.
+
+Hesaplamada kullanılan parametrelerin hukuki ve aktüeryal esasları aşağıda özetlenmiştir:
+
+Bu dosyada destekçinin ve hak sahiplerinin bakiye ömürlerinin belirlenmesinde, Türkiye'ye özgü güncel demografik verilerle hazırlanmış TRH 2010 yaşam tablosu esas alınmıştır. Bu tablo, PMF 1931'e göre daha güncel ve gerçekçi kabul edildiğinden, aktüeryal açıdan isabetli sonuçlar verdiği doktrinde ifade edilmektedir.
+
+Destekçinin gerçek ve belgeli geliri açısından dosya kapsamındaki veriler değerlendirilmiş; düzenli, ispatlı ve istikrarlı bir gelir düzeyi ortaya konulamadığından, Yargıtay uygulamasında da sıkça benimsendiği üzere asgari ücret esas alınmıştır. Hesapta olay ve hesap tarihleri arasındaki dönemler için ilgili yılların net asgari ücretleri dikkate alınmış, mevzuattaki değişiklikler (AGİ, vergi istisnası vb.) dönemler itibarıyla gözetilmiştir.
+
+Hesaplamada, destekçinin çalışma yaşamı aktüeryal teamüllere uygun olarak 18 yaşında başlayıp 60 yaşına kadar süren 'aktif dönem' ve sonrasını kapsayan 'pasif dönem' olarak ikiye ayrılmıştır. Aktif dönemde destekçinin fiilen çalışma ve gelir elde etme olanağı bulunduğu; pasif dönemde ise gelirinin azalarak emeklilik düzeyine indiği kabul edilmiştir.
+
+Pasif dönem için, emeklilik sonrası gelir seviyesinin asgari ücret düzeyine yaklaşacağı kabul edilmiş ve bu nedenle pasif dönemde AGİ'siz net asgari ücret esas alınmıştır. Bu varsayım, özellikle emekli aylıklarının çoğu zaman asgari ücret düzeyine yakınsadığına ilişkin aktüeryal ve sosyoekonomik gözlemlerle uyumludur.
+
+Destek paylarının eş, çocuk, anne ve baba arasında dağıtımında, Yargıtay'ın yerleşik içtihatlarında kabul gören profil ve pay çizelgeleri esas alınmış; desteğin kendi tüketim payı ile hak sahiplerinin payları bu çizelgeye göre belirlenmiştir. Çocukların reşit olması, destek süresinin sona ermesi gibi hallerde paylar, Yargıtay profiline uygun biçimde dinamik olarak güncellenmiştir.
+
+Destekten yoksun kalma zararı geleceğe yönelik olmakla birlikte, gelirlerdeki artışlar ile paranın zaman değeri ve enflasyonun birbirini yaklaşık dengeleyeceği varsayımına dayanılarak rapor iskonto oranı (teknik faiz) %0 alınmıştır. Bu durumda gelecekteki yıllık destek tutarları nominal olarak toplanarak bugünkü değer bulunmuştur. Bu yaklaşım, Yargıtay'ın bir kısım kararlarında benimsediği sıfır faizli hesap yöntemiyle uyumludur.
+
+Sosyal Güvenlik Kurumu tarafından hak sahiplerine bağlanan aylık gelir bulunmadığından veya dosya kapsamındaki SGK ödemelerinin tazminattan indirilmemesi gerektiği değerlendirildiğinden, bu hesapta SGK indirimi uygulanmamıştır.
+
+Sağ kalan eş yönünden, genç yaşta dul kalma halinde yeniden evlenme olasılığının yüksek olduğu kabul edilerek, Askeri Yüksek İdare Mahkemesi içtihatlarında geliştirilen ve yaşa göre evlenme olasılığını gösteren AYİM tablosu esas alınmış; tazminattan bu tabloya uygun oranda evlenme indirimi yapılmıştır.
+Destekçinin bekâr olması ve ilerleyen yaşlarda evlenmesinin hayatın olağan akışına uygun görülmesi nedeniyle, farazi evlilik ve çocuk varsayımları kullanılmış; belirlenen yaşta (örneğin 25 yaş) evleneceği ve belli yıllar içinde çocuk sahibi olacağı kabul edilerek, destek profili bu varsayımlara göre oluşturulmuştur.
+
+Dosyada, ölenin anne ve babası tarafından yetiştirilmesine ilişkin yetiştirme giderleri de değerlendirilmiş; bu kapsamda, destekçinin çocukluk döneminde yapılan zorunlu giderlerin tazminattan 5% oranında indirime konu edilmesi uygun görülmüştür. Bu indirim, yetiştirme giderlerinin bir kısmının destekçinin ölümüyle ilgili zararla ilişkilendirilmesi ve mükerrer tazminin önlenmesi amacını taşımaktadır.
+
+IV. HESAPLAMA ÖZETİ VE TABLOLAR
+
+Destek süresine ilişkin dönemsel özet:
+  - Toplam Destek Süresi: 01.01.2020 - 04.12.2070 (50 yıl 11 ay 2 gün)
+  - Geçmiş Dönem: 01.01.2020 - 04.12.2025 (5 yıl 11 ay 2 gün)
+  - Gelecek Aktif Dönem: 04.12.2025 - 09.01.2052 (26 yıl 1 ay 4 gün)
+  - Gelecek Pasif Dönem: 09.01.2052 - 04.12.2070 (18 yıl 10 ay 24 gün)
+
+Hak sahipleri bazında destek süresi ve tutar özeti (ayrıntılı tablo: Ek-2):
+  - Maktul: 5.045.281,82 TL (50 yıl 11 ay 2 gün destek süresi)
+  - Varsayılan Eş: 5.011.746,19 TL (50 yıl 11 ay 2 gün destek süresi)
+  - Anne: 1.432.354,42 TL (16 yıl 11 ay 2 gün destek süresi)
+  - Varsayılan Çocuk 2: 404.875,12 TL (17 yıl 11 ay 30 gün destek süresi)
+  - Baba: 366.055,28 TL (8 yıl 11 ay 2 gün destek süresi)
+  - Varsayılan Çocuk 1: 301.327,89 TL (17 yıl 0 ay 7 gün destek süresi)
+
+Hesaplanan toplam destek zararı (SGK ve kusur indirimi öncesi, yetiştirme gideri dahil): 12.595.176,35 TL
+Yetiştirme gideri toplamı                                          : 0,00 TL
+SGK peşin sermaye değeri indirimi sonrası toplam                   : 12.595.176,35 TL
+Kusur indirimi dikkate alındıktan sonraki nihai tazminat tutarı     : 12.595.176,35 TL
+
+Ayrıntılı yıllık hesaplamalar, destek süresi ve pay dağılımı Ek-1, Ek-2 ve Ek-3 tablolarında gösterilmiştir.
+
+V. SONUÇ VE KANAAT
+
+Yukarıda açıklanan hukuki ve teknik esaslar ile yapılan aktüeryal hesaplama sonucunda, destekten yoksun kalma zararı aşağıdaki şekilde belirlenmiştir.
+
+Hak sahipleri bazında tespit edilen (kusur ve SGK indirimi öncesi) destek tutarları:
+  - Maktul: 5.045.281,82 TL
+  - Varsayılan Eş: 5.011.746,19 TL
+  - Anne: 1.432.354,42 TL
+  - Varsayılan Çocuk 2: 404.875,12 TL
+  - Baba: 366.055,28 TL
+  - Varsayılan Çocuk 1: 301.327,89 TL
+
+Toplam destek zararı üzerinden SGK peşin sermaye değeri indirimi ve kusur oranı dikkate alındığında, nihai tazminat tutarı 12.595.176,35 TL olarak hesaplanmıştır.
+
+Mahkemenizin takdir ve taksim yetkisi saklı kalmak kaydıyla, yukarıda belirtilen esas ve hesaplamalar çerçevesinde hüküm kurulmasının uygun olacağı kanaat ve sonucuna varılmıştır.
