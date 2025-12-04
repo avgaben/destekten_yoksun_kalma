@@ -485,7 +485,7 @@ def compute_support(ci: CalculationInput) -> CalculationResult:
         rows.append(row)
 
     # 6) Toplamlar
-    total_support = sum(r.present_value for r in rows)
+    total_support = float(sum(r.present_value for r in rows))
     total_by_person: Dict[str, float] = {}
     for r in rows:
         for name, val in r.shares.items():
@@ -550,3 +550,4 @@ def compute_support(ci: CalculationInput) -> CalculationResult:
         dependent_intervals=dep_intervals,
         virtual_intervals=virtual_intervals,
     )
+
